@@ -1,0 +1,17 @@
+Temp
+Library
+.idea
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+KnowledgeIsPower.sln
+KnowledgeIsPower.csproj
+Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll
+obj
+.vs
+/builds
+Assets/Plugins/Editor/JetBrains
+*.csproj
+
+# Build related
+Cake/tools/**
+Cake/!tools/packages.config
